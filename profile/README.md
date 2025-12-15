@@ -2,7 +2,7 @@
 
 Eudoxys Sciences LLC is an independent consulting group that provides models and simulations to help the electric power industry plan for an increasingly uncertain and unpredictable future. We serve electric utilities, regulators, reliability organizations, and government agencies by developing, validating, and maintaining electric power system models, simulation, analyses, and forecasts for residential, commercial, industrial, agricultural, and transportation loads. We use physics-based and data-driven modeling techniques in tools that use GridLAB-D as the core modeling and simulation technology.
 
-#Modeling
+# Modeling
 
 We focus on developing high-fidelity load models for electric power system simulation and analysis. We create static, quasi-steady, and dynamic load models for GridLAB-D, CYME, PSLF, and PSS/E. All load models are developed from a combination of physics-based models, end-use load surveys, and measured power and/or energy data. Static load models are defined for a particular location and moment in time. Quasi-steady models vary in time and can include mid-term dynamics such as building thermal response and load controls. Dynamic models are used for power system transient analysis and include the composite load models according to the NERC load modeling guidelines.
 
@@ -58,6 +58,16 @@ We provide training course for utility engineers, academic faculty and students,
 1. Tools and utilities - Creating scripts and programs to help users of GridLAB-D.
 1. Production and release - Distribution and dissemination of GridLAB-D software.
 1. Working with LF Energy - Learn how to become part of the LF Energy open-source software community.
+
+# Software
+
+Eudoxys publishes a collection of software libraries and tools for use by the electric power simulation and load modeling community.
+
+- [resstock](https://github.com/eudoxys/resstock): access NREL's RESstock residential load data for US counties.
+- [fips](https://github.com/eudoxys/fips): access US state and county data.
+- [eia](https://github.com/eudoxys/eia): access US EIA Form 860 and 861 generation data.
+- [geohash](https://github.com/eudoxys/geohash): convert latitude/longitude values to and from geohash codes.
+- [pypower_sim](https://github.com/eudoxys/pypower_apo): time-series simulator based on [pypower](https://github.com/rwl/pypower).
 
 # Get a Quote
 
