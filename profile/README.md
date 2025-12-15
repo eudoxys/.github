@@ -67,7 +67,7 @@ Eudoxys publishes a collection of software libraries and tools for use by the el
 - [fips](https://github.com/eudoxys/fips): access US state and county data.
 - [eia](https://github.com/eudoxys/eia): access US EIA Form 860 and 861 generation data.
 - [geohash](https://github.com/eudoxys/geohash): convert latitude/longitude values to and from geohash codes.
-- [pypower_sim](https://github.com/eudoxys/pypower_apo): time-series simulator based on [pypower](https://github.com/rwl/pypower).
+- [pypower_sim](https://github.com/eudoxys/pypower_sim): time-series simulator based on [pypower](https://github.com/rwl/pypower).
 
 # Get a Quote
 
