@@ -63,7 +63,7 @@ We provide training course for utility engineers, academic faculty and students,
 
 Eudoxys publishes a collection of software libraries and tools for use by the electric power simulation and load modeling community.
 
-- [resstock](https://github.com/eudoxys/resstock): access NREL's RESstock residential load data for US counties.
+- [loads](https://github.com/eudoxys/loads): access residential, commercial, industrial, and agricultural load data for US counties.
 - [fips](https://github.com/eudoxys/fips): access US state and county data.
 - [eia](https://github.com/eudoxys/eia): access US EIA Form 860 and 861 generation data.
 - [geohash](https://github.com/eudoxys/geohash): convert latitude/longitude values to and from geohash codes.
